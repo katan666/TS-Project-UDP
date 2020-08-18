@@ -1,0 +1,3 @@
+﻿  serwer.cpp
+d:\tsv2\serwer\serwer\serwer.cpp(38): warning C4244: "inicjowanie": konwersja z "std::chrono::system_clock::rep" do "unsigned int", możliwa utrata danych
+  Serwer.vcxproj -> D:\TSv2\Serwer\x64\Debug\Serwer.exe
